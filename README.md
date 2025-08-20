@@ -8,7 +8,7 @@ Justificación:
 Se seleccionó median_income debido a que, tras realizar un mapa de calor para analizar la correlación entre todas las características, esta variable mostró la correlación más alta con la variable objetivo, que es el precio mediano de la vivienda (median_house_value). Esta fuerte correlación sugiere que el ingreso es el factor más influyente para determinar el precio de una vivienda en este conjunto de datos.
 
 Instrucciones:
-Para comprender el modelo y su funcionamiento, se recomienda ejecutar todas las celdas de código. Presta especial atención a la última sección, donde podrás observar la predicción del modelo en acción y ver cómo se desempeña en la práctica.
+Para comprender el modelo y su funcionamiento, se recomienda ejecutar todas las celdas de código. Presta especial atención a la última sección, donde podrás observar la predicción del modelo en acción y ver cómo se desempeña en la práctica. El usuario debe de ingresar un ingreso anual medio, como se expresa en la captura de su funcionamiento puesto a que está medido en decenas de miles de dólares.
 
 Ejemplo de su funcionamiento: 
 
