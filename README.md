@@ -1,6 +1,9 @@
 # CFE-IA-Regresión-lineal-simple-con-California-Housing-Prices
 Modelo sencillo programado en Python para el aprendizaje de la regresión lineal simple
 
+![b66a65_443fbcb3a3c54d289c0f523737b33ce6~mv2](https://github.com/user-attachments/assets/dcb34f07-180e-490a-b02f-ea494d60c4f9)
+
+
 Característica seleccionada:
 La característica elegida para este modelo es median_income, que representa el ingreso medio de los hogares dentro de un bloque de casas, medido en decenas de miles de dólares estadounidenses.
 
